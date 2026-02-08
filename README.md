@@ -1,16 +1,30 @@
-## Hi there 👋
+# Akash Sivanandan
 
-<!--
-**ak4-sh/ak4-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools for people who hate slow software.
 
-Here are some ideas to get you started:
+Most of my time goes into developer tooling, language internals, and systems that move large amounts of data without falling over.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently obsessed with
+- Writing a Python LSP from scratch in Go  
+- Making tooling feel instant instead of “eventually consistent”  
+- Parsers, compilers, and anything that smells like a state machine  
+- Caching systems that actually respect physics
+
+## What you’ll find here
+- Experiments in language servers and static analysis  
+- Distributed systems prototypes  
+- Fast data processing ideas  
+- Occasional over-engineered side projects
+
+## Beliefs
+- Performance is a feature  
+- Simple beats clever  
+- Fewer dependencies, better sleep  
+- Good tooling is invisible
+
+## Stack
+Go • Python • Systems • Dev Tools
+
+## Elsewhere
+https://www.linkedin.com/in/akashsivanandan/
+https://ak4.sh
